@@ -1,6 +1,6 @@
 # campus-workshops-knowledge-base
-Reva`
-Knowledge Base for Campus Workshops
+
+Knowledge Base for Campus Workshops. Hello Betsol!!
 
 # What we'll be doing today?
 
